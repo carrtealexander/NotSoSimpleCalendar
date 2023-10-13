@@ -13,16 +13,27 @@ link:https://carrtealexander.github.io/NotSoSimpleCalendar/
 
 ## Installation
 Day.JS
+
 VS Code
+
 node.js
+
 jqueryUI
+
 Bootstrap
+
 HTML
+
 CSS
+
 Javascript
+
 window.localStorage
+
 jquery
+
 bootstrap
+
 
 ## Usage
 Visit the link above to view the scheduler. Input events in the text areas and click the Save button to save the events.
