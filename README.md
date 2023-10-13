@@ -39,7 +39,7 @@ bootstrap
 Visit the link above to view the scheduler. Input events in the text areas and click the Save button to save the events.
 
 ## Credits
-Third-Party Assets Used: day.js
+GitHub
 
 ## License
 None
