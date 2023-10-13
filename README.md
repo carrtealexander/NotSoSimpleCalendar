@@ -4,17 +4,17 @@ An application  using jQuery, day.JS,  and Local Storage to create a "simple wor
 Link:
 
 
-##Images
+## Images
 ![Alt text](image.png)
 
-##Installation
+## Installation
 No steps for installation.
 
-##Usage
+## Usage
 Visit the link above to view the scheduler. Input events in the text areas and click the Save button to save the events.
 
-##Credits
+## Credits
 Third-Party Assets Used: day.js
 
-##License
+## License
 None
